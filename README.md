@@ -1,1 +1,1 @@
-<img src="https://imagenes.milenio.com/rujXoXeDGvnlZK2IT7_SilnnEXw=/936x566/https://www.milenio.com/uploads/media/2019/12/04/pedrito-sola-tiene-pareja-amorosa_0_40_478_297.png">
+<img src="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F641551909419784258%2F&psig=AOvVaw2IHm5lnNXgMYJQXjcKyPIb&ust=1651322196111000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJiG_-OkufcCFQAAAAAdAAAAABAD">
