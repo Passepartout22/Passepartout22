@@ -1,1 +1,1 @@
-<img src="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F641551909419784258%2F&psig=AOvVaw2IHm5lnNXgMYJQXjcKyPIb&ust=1651322196111000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJiG_-OkufcCFQAAAAAdAAAAABAD" alt="Funny image"> 
+<img src="https://pin.it/7v1hwWi" alt="Funny image"> 
