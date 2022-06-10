@@ -17,7 +17,6 @@
 
 </p>
 
-<img >
 
-<img src="https://co.pinterest.com/pin/118008452722979645/" alt="git" width="40" height="40"/>
+<img src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif" alt="git" max-width="100%" />
 
