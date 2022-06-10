@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Zeus</h1>
 <h3 align="center">programming student.</h3>
 
-<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
-
 - 👨‍💻 All of my projects are available at [https://passpartout/projects](https://passpartout/projects)
 
 - 📫 How to reach me **zeus.cach@outlook.com**
@@ -19,5 +17,7 @@
 
 </p>
 
+<img >
 
+<img src="https://co.pinterest.com/pin/118008452722979645/" alt="git" width="40" height="40"/>
 
